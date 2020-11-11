@@ -17,10 +17,3 @@ var ResponseTuple = await RestClientManager.SendAsyncDeleteRequest<Item1>
 var ResponseTuple = await RestClientManager.SendAsyncPostRequest<Item1>("https://jsonplaceholder.typicode.com/posts/1","JsonString");
 
 var ResponseTuple = await RestClientManager.SendAsyncPutRequest<Item1>("https://jsonplaceholder.typicode.com/posts/1","JsonString");
-
-
-Special Thanks to jsonplaceholder.
-
-Incase of any suggestion/query or your special requirement contact on below details. 
-
-Email ID : amolgaikwad1323@gmail.com
